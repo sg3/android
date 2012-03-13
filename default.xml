@@ -253,7 +253,6 @@
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" remote="github" />
   <project path="vendor/cm" name="sg3/android_vendor_cm" revision="ics" />
-  <project path="vendor/samsung/apollo" name="sg3/android_vendor_samsung_apollo" revision="master" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
   <project path="system/core" name="sg3/platform_system_core" revision="master" />
