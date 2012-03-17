@@ -180,7 +180,7 @@
   <project path="external/valgrind" name="platform/external/valgrind" />
   <project path="external/webkit" name="AOKP/external_webkit" remote="gh" revision="ics" />
   <project path="external/webp" name="platform/external/webp" />
-  <project path="external/webrtc" name="sg3/platform_external_webrtc" revision="master" />
+  <project path="external/webrtc" name="sg3/platform_external_webrtc" remote ="gh" revision="master" />
   <project path="external/wpa_supplicant" name="AOKP/external_wpa_supplicant" remote="gh" revision="master" />
   <project path="external/wpa_supplicant_6" name="AOKP/external_wpa_supplicant_6" remote="gh" revision="master" />
   <project path="external/wpa_supplicant_8" name="AOKP/external_wpa_supplicant_8" remote="gh" revision="master" />
