@@ -50,7 +50,7 @@
   <project path="device/moto/stingray" name="AOKP/device_moto_stingray" remote="gh" revision="ics" />
   <project path="device/moto/wingray" name="AOKP/device_moto_wingray" remote="gh" revision="ics" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/apollo" name="sg3/android_device_samsung_apollo" remote="gh" revision="master" />"
+  <project path="device/samsung/apollo" name="sg3/android_device_samsung_apollo" remote="gh" revision="aokp_ics" />"
   <project path="device/samsung/aries-common" name="AOKP/device_samsung_aries-common" remote="gh" revision="ics" />
   <project path="device/samsung/captivatemtd" name="AOKP/device_samsung_captivatemtd" remote="gh" revision="ics" />
   <project path="device/samsung/crespo" name="AOKP/device_samsung_crespo" remote="gh" revision="ics" />
