@@ -286,7 +286,7 @@
 >>>>>>> e12b200db5344eb7d9474648e2b370c33aa477af
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="sg3/platform_system_core" revision="master" />
+  <project path="system/core" name="sg3/platform_system_core" revision="ics" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
